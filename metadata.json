@@ -1,0 +1,5 @@
+{
+  "name": "ZKTeco PUSH Server",
+  "description": "Servidor PUSH para integração com dispositivos ZKTeco, permitindo CRUD de usuários em tempo real no equipamento.",
+  "requestFramePermissions": []
+}
